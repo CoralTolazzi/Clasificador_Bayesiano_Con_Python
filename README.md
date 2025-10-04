@@ -1,4 +1,4 @@
-##Trabajo Práctico N.º 5 - Clasificación de Noticias con Naive Bayes
+# Trabajo Práctico N.º 5 - Clasificación de Noticias con Naive Bayes
 Nombre: Coral Tolazzi
 Materia: TSCIA
 Tema: Clasificación de Noticias
@@ -6,11 +6,11 @@ Profesora: Yanina Ximena Scudero
 Cuatrimestre: 2.º Cuatrimestre del 2025
 Instituto: Instituto Tecnológico Beltrán
 
-Descripción
+## Descripción
 
 Este trabajo práctico consiste en la implementación de un clasificador automático de noticias utilizando el modelo de Naive Bayes Multinomial. El objetivo es detectar si una noticia es real o falsa, basándose en su contenido textual. Se emplea el procesamiento de texto con CountVectorizer y la librería scikit-learn para entrenar y evaluar el modelo.
 
-Funcionalidades
+## Funcionalidades
 
 Preprocesamiento de texto:
 Conversión de documentos a vectores de frecuencia mediante CountVectorizer.
